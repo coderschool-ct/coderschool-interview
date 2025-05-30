@@ -7,11 +7,11 @@ The following prompts below are sample projects that could be done with students
 1. The interview exercise will simulate picking a project with a student. All 3 prompts will be provided but the candidate will need to help the student choose a project and get then interested in the exercise. 
 2. Candidate will need to explain the requirements to the student as the project/solution is being built out. The student will need to have context of each requirement and how the code translates. 
 3. The project implementation must be completed in python.
-4. It is not foribidden to use the internet for searching documentation/syntax but use of ChatGPT is not allowed for this exercise. The purpose of this is to demonstrate what the candidate can teach a student fluently without relying heavily on external sources. 
+4. It is ok to use the internet for searching documentation/syntax but use of ChatGPT is not allowed for this exercise. The purpose of this is to demonstrate what the candidate can teach a student fluently without relying heavily on external sources. 
 5. Completion of the code is less important then explaining the thought process and making sure the student understands the code. It is not required to finish the prompts or the projects. 
 
 
-# Rock Paper Scissors
+# 1. Rock Paper Scissors
 
 This project is a rock paper scissors simulator. This project will be a command line interface project that lets a user play rock paper scissors against a random computer bot. The computer bot will generate 3 random options "rock", "paper" or "scissors" which the user will not be able to see. Then the user will be able to either type in their option and see if they can beat the computer. 
 
@@ -27,7 +27,7 @@ This project is a rock paper scissors simulator. This project will be a command 
 * The user will need to be able to type in an option for either of the 3 options
 * The program will then need to do the logic to determine if the computer or the player won
 
-# Blackjack
+# 2. Blackjack
 
 This project will be a card game simulator for "blackjack". Blackjack is a popular card game for playing against the card dealer. The goal of the game is to draw a random deck of cards that has the closest total to 21. For the sake of simplicity, this project will not require simulating a card deck and will just generate random numbers between 1-10 to simulate drawing a card out of a deck. For this project, the user will play against a random computer that will generate a number between 1-21.
 
@@ -40,7 +40,7 @@ This project will be a card game simulator for "blackjack". Blackjack is a popul
 * To determine the winner, the program will need to be able to sum the numbers in the list to see what the user's total hand was to compare it against the computer bot and determine the winner. 
 
 
-# Calculator
+# 3. Calculator
 
 This project will be a command line interface (CLI) calculator that allows the user to perform basic arithmetic operations. The user will be able to input two numbers and an operation (such as addition or division), and the program will output the result. The calculator will support common mathematical operations and provide helpful error messages for invalid input.
 
