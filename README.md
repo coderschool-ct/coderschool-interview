@@ -4,11 +4,11 @@ The following prompts below are sample projects that could be done with students
 
 ## Rules
 
-1. The interview exercise will simulate picking a project with a student. All 3 prompts will be provided but the candidate will need to help the student choose a project and get then interested in the exercise. 
-2. Candidate will need to explain the requirements to the student as the project/solution is being built out. The student will need to have context of each requirement and how the code translates. 
+1. The interview exercise will simulate picking a project with a student. All 3 prompts will be provided and a project will be decided on between the student and instructor.
+2. An instructor will need to explain the requirements to the student as the project/solution is being built out. The student will need to have context of each requirement and how the code translates. 
 3. The project implementation must be completed in python.
-4. It is ok to use the internet for searching documentation/syntax but use of ChatGPT is not allowed for this exercise. The purpose of this is to demonstrate what the candidate can teach a student fluently without relying heavily on external sources. 
-5. Completion of the code is less important then explaining the thought process and making sure the student understands the code. It is not required to finish the prompts or the projects. 
+4. It is ok to use the internet for searching documentation/syntax but use of ChatGPT is not allowed for this exercise. The purpose of this is to demonstrate what an instructor can teach a student fluently without relying heavily on external sources. 
+5. Completion of the code is less important then explaining the thought process and making sure the student understands the code. It is not required to finish the prompts or the projects, but ideally completion of certain components & working code would be ideal. 
 
 
 # 1. Rock Paper Scissors
