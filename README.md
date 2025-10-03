@@ -2,7 +2,7 @@
 
 The following prompts below are sample projects that could be done with students at "TheCoderSchool". The sample prompts below are used to evaluate candidates that want to become code coaches/teach classes. The prompts are provided to evaluate how a candidate will walk through and coach a student through one of the projects below. 
 
-## Rules
+## Interview Structure
 
 1. The interview exercise will simulate picking a project with a student. All 3 prompts will be provided and a project will be decided on between the student and instructor.
 2. An instructor will need to explain the requirements to the student as the project/solution is being built out. The student will need to have context of each requirement and how the code translates. 
